@@ -14,11 +14,9 @@ Python/programmiz (or JavaScript/C++ depending on your language of choice)
 #How to Run the Project
 Clone this repository to your local machine:
    
-   git clone https://github.com
+   Navigate to the project directory:
    
-Navigate to the project directory:
-   
-   cd transit-pulse
+   cd transit-ways
    
 Run the application:
    ```bash
