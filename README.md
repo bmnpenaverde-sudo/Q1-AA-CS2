@@ -4,11 +4,12 @@
 TransitWays is an app designed to help everyday commuters to know an unexpected public transit delays. Instead of relying in the static schedule this app simulates real-time traffic or accidents disruption. It also suggest what routes to take when standard ways is dealing with too much traffic or problem.
 
 #KeyFeatures
+
 *Route Monitoring 
 *Route redirection and assistance 
 
 #Built With
-* **Python/programmiz (or JavaScript/C++ depending on your language of choice)
+Python/programmiz (or JavaScript/C++ depending on your language of choice)
 
 #How to Run the Project
 Clone this repository to your local machine:
